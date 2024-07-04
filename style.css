@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(221, 222, 237, 0);
+}
+
+.title1 {
+    margin-top: 2rem;
+    margin-left: 30rem;
+}
+
+.in {
+    margin-top: 1rem;
+    margin-left: 31rem;
+    width: 500px;
+    height: 25px;
+}
+
+.caja {
+    background-size: cover;
+    background-position: center;
+    margin-top: 1rem;
+    margin-left: 25rem;
+    margin-right: 24.5rem;
+}
+
+.texto1 {
+    margin-top: 0;
+    margin-left: 30rem;
+}
+
+.texto2 {
+    margin-top: 0;
+    margin-left: 33rem;
+}
